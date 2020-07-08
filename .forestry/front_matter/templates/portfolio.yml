@@ -18,3 +18,7 @@ fields:
       format: markdown
   label: Intro
   description: Intro goes here
+- name: screenshots
+  type: image_gallery
+  config: {}
+  label: Screenshots
